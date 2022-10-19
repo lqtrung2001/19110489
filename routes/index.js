@@ -1,6 +1,6 @@
 const express = require('express');
 const router = express.Router();
-const random = require('random');
+// const random = require('random');
 
 let posts = [{
   id: '1',
